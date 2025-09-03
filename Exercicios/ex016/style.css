@@ -1,0 +1,10 @@
+body {
+    background-color: beige;
+}
+main {
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px  #a5a56e;
+}

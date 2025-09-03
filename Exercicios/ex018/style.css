@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body {
+    font-size: 12pt;
+    color: rgba(24, 118, 241, 0.918);
+    background-image:-moz-repeating-linear-gradient(90deg ,rgb(0, 0, 0) ,rgb(136, 230, 198));
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(13, 13, 14);
+}
+h2 {
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 470;
+    color: rgb(255, 255, 255);
+   
+}   
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+}

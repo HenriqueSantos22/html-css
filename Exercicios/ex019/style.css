@@ -1,0 +1,21 @@
+
+body {
+    font: 1em Arial, sans-serif;
+}
+h1 {
+    color: rgb(17, 74, 180);
+}
+#principal {
+    background-color: rgb(15, 62, 150);
+    color: rgb(255, 255, 255);
+    font: italic bolder 2em Times;
+}
+.basico {
+    color: rgb(17, 180, 17);
+}
+.medio {
+    color: rgb(169, 180, 17);
+}
+.avançado {
+    color: rgb(180, 17, 17);
+}

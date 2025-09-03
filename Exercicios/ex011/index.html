@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1>Imagem Dinamica</h1>
+  <p> Alterne o dispositivo ou apenas mude o tamanho do seu navegador para mudar a Imagem </p>
+  <picture>
+    <source media="(max-width: 750px)" srcset="imagens/foto-p.jpeg" type="image/jpeg">
+    <source media="(max-width: 1050px)" srcset="imagens/foto-m.jpeg" type="image/jpeg">
+    <img src="imagens/foto-g.jpeg" alt="imagen frexivel">
+  </picture>
+  <h1> Adicionando audio no seu site</h1>
+  <audio autoplay controls loop>
+    <source src="media/slay-well.mp3" type="media/mpeg">
+    <source src="media/slay-well.ogg" type="media/ogg">
+    <source src="media/slay-well.wav" type="media/wav">
+    <p>
+      infelizmente o seu navegador nao tem disponibilidade com audio. <br> <a href="media/guanacast-33.mp3">clicle aqui para baixar.</a>
+    </p>
+  </audio>
+</body>
+</html>
