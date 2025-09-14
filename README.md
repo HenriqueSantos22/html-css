@@ -1,2 +1,1 @@
-Estou aprendendo HTML e CSS
-Pelo Curso em Video
+Repositório atualmente redirecionado para meus estudos no curso de HTML-CSS do Curso em Video
