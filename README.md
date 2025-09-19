@@ -1,1 +1,1 @@
-Repositório atualmente redirecionado para meus estudos no curso de HTML-CSS do Curso em Video
+Repositório para meus estudos no curso de HTML5-CSS3 do Curso em Video
